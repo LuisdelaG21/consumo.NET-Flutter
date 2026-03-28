@@ -94,7 +94,7 @@ class _homeState extends State<home> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: insertarAutor, // Llama a la nueva función al pulsar
-        child: const Icon(Icons.add_task),
+        child: const Icon(Icons.add),
         tooltip: 'Insertar Autor Fijo',
       ),
     );
